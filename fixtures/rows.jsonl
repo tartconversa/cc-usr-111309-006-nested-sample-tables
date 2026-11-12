@@ -1,0 +1,5 @@
+{"id": "a", "site": "s1", "value": 0}
+{"id": "b", "site": "s1", "value": null}
+{"id": "c", "site": "s2", "value": 2}
+{"id": "", "site": "s2", "value": 3}
+{"id": null, "site": "s2", "value": 4}

@@ -1,0 +1,43 @@
+{
+  "sample_key_fields": [
+    "site",
+    "id"
+  ],
+  "canonical_encoding": {
+    "null": "N",
+    "string": "S + uint32_be_length + utf8",
+    "field_order": "sample_key_fields"
+  },
+  "seed_hex": "111309",
+  "hash": "sha256_seed_prefix_first64_bigendian",
+  "fractions": [
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "stratum_field": "site",
+  "stratum_fractions": {
+    "s1": [
+      1,
+      2
+    ],
+    "s2": [
+      3,
+      4
+    ]
+  },
+  "selection": "h*b < a*2**64",
+  "hypothetical_hashes": [
+    0,
+    9223372036854775808
+  ]
+}

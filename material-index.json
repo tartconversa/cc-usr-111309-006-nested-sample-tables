@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/rows.jsonl",
+    "sha256": "0d1f6a664b319eb7136b28e974c40d23c91f8effb19dcee8d353645ec86139a8",
+    "size_bytes": 193
+  },
+  {
+    "path": "fixtures/sampling.json",
+    "sha256": "aa8d21f0dd89114ab6553105bcddbfcdf7470cf976ef7c41198c60741580e8c8",
+    "size_bytes": 594
+  }
+]
