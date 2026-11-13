@@ -1,0 +1,5 @@
+{"accepted_fractions":["1/4","1/2","3/4"],"canonical_key_hex":"53000000027331530000000161","h":363586517285866758,"sample_key":["s1","a"]}
+{"accepted_fractions":[],"canonical_key_hex":"53000000027331530000000162","h":17536828903218501481,"sample_key":["s1","b"]}
+{"accepted_fractions":["1/2","3/4"],"canonical_key_hex":"530000000273324e","h":4764697367225638483,"sample_key":["s2",null]}
+{"accepted_fractions":[],"canonical_key_hex":"530000000273325300000000","h":14331129749282958564,"sample_key":["s2",""]}
+{"accepted_fractions":[],"canonical_key_hex":"53000000027332530000000163","h":18051571881053752452,"sample_key":["s2","c"]}

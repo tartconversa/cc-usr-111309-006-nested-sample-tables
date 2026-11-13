@@ -1,0 +1,5 @@
+{"accepted":true,"canonical_key_hex":"53000000027331530000000161","fraction":[1,2],"h":363586517285866758,"sample_key":["s1","a"],"selection_basis":"stratum='s1' -> 1/2; h*2 < 1*2^64","stratum":"s1"}
+{"accepted":false,"canonical_key_hex":"53000000027331530000000162","fraction":[1,2],"h":17536828903218501481,"sample_key":["s1","b"],"selection_basis":"stratum='s1' -> 1/2; h*2 >= 1*2^64","stratum":"s1"}
+{"accepted":true,"canonical_key_hex":"530000000273324e","fraction":[3,4],"h":4764697367225638483,"sample_key":["s2",null],"selection_basis":"stratum='s2' -> 3/4; h*4 < 3*2^64","stratum":"s2"}
+{"accepted":false,"canonical_key_hex":"530000000273325300000000","fraction":[3,4],"h":14331129749282958564,"sample_key":["s2",""],"selection_basis":"stratum='s2' -> 3/4; h*4 >= 3*2^64","stratum":"s2"}
+{"accepted":false,"canonical_key_hex":"53000000027332530000000163","fraction":[3,4],"h":18051571881053752452,"sample_key":["s2","c"],"selection_basis":"stratum='s2' -> 3/4; h*4 >= 3*2^64","stratum":"s2"}

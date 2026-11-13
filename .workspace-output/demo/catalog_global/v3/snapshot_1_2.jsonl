@@ -1,0 +1,2 @@
+{"canonical_key_hex":"53000000027331530000000161","content_fingerprint":"ee109ee010369489eb13b22d6b6c360e2f09ab56fc09f456db9802834155faa6","fraction":[1,2],"h":363586517285866758,"row":{"id":"a","site":"s1","value":999},"sample_key":["s1","a"]}
+{"canonical_key_hex":"530000000273324e","content_fingerprint":"1b11dbe640fde481d2d47b31c4a29a1d3b016a9e28a9bd35bb216e61bd54d183","fraction":[1,2],"h":4764697367225638483,"row":{"id":null,"site":"s2","value":4},"sample_key":["s2",null]}
